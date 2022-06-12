@@ -35,7 +35,7 @@
 
 #gametitle{
     position: absolute;
-    top: 50px;
+    top: 30px;
     left: 10px;
     font-size: 50px;
     font-weight: bold;
@@ -45,7 +45,7 @@
 
 #instructions{
     position: absolute;
-    bottom: 500px;
+    bottom: 550px;
     left: 10px;
     font-size: 35px;
     font-weight: bold;
@@ -54,7 +54,7 @@
 
 #navigation1{
     position: absolute;
-    bottom: 450px;
+    bottom: 500px;
     left: 10px;
     font-size: 25px;
     font-weight: bold;
@@ -63,7 +63,7 @@
 
 #navigation2{
     position: absolute;
-    bottom: 400px;
+    bottom: 450px;
     left: 10px;
     font-size: 25px;
     font-weight: bold;
@@ -73,7 +73,7 @@
 
 #navigation3{
     position: absolute;
-    bottom: 350px;
+    bottom: 400px;
     left: 10px;
     font-size: 25px;
     font-weight: bold;
@@ -83,7 +83,7 @@
 
 #navigation4{
     position: absolute;
-    bottom: 300px;
+    bottom: 350px;
     left: 10px;
     font-size: 25px;
     font-weight: bold;
